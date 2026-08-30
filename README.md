@@ -55,13 +55,15 @@ The sensors help the system detect obstacles and control its movement. The cutti
 * Solar Energy
 * Motor Driver
 
-Project Files
-📄 Project Report
-📊 Project Presentation
-💻 Arduino Source Code
-📷 Project Image 1
-📷 Project Image 2
-🔌 Circuit Diagram
+## 📂 Project Files
+
+* 📄 [Project Report](https://github.com/Kishore19092003/Autonomous-Solar-Powered-Grass-Cutter/blob/main/Final_year_report.pdf)
+* 📊 [Project Presentation](https://github.com/Kishore19092003/Autonomous-Solar-Powered-Grass-Cutter/blob/main/Final_Year_Project_PPT%20.pdf)
+* 💻 [Arduino Source Code](https://github.com/Kishore19092003/Autonomous-Solar-Powered-Grass-Cutter/blob/main/Final_year_Project_code.ino)
+* 📷 [Project Image 1](https://github.com/Kishore19092003/Autonomous-Solar-Powered-Grass-Cutter/blob/main/Project_image1.png)
+* 📷 [Project Image 2](https://github.com/Kishore19092003/Autonomous-Solar-Powered-Grass-Cutter/blob/main/Project_image2.png)
+* 🔌 [Circuit Diagram](https://github.com/Kishore19092003/Autonomous-Solar-Powered-Grass-Cutter/blob/main/Project_circuit-diagram.png)
+
 
 ## 🚀 Future Improvements
 
