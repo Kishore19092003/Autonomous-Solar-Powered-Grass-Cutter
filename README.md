@@ -55,9 +55,13 @@ The sensors help the system detect obstacles and control its movement. The cutti
 * Solar Energy
 * Motor Driver
 
-## 📷 Project Images
-
-Project images and circuit diagrams will be added here.
+Project Files
+📄 Project Report
+📊 Project Presentation
+💻 Arduino Source Code
+📷 Project Image 1
+📷 Project Image 2
+🔌 Circuit Diagram
 
 ## 🚀 Future Improvements
 
